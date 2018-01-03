@@ -1,0 +1,17 @@
+{
+    "name": "exwechat",
+    "type": "library",
+    "authors": [
+        {
+            "name": "maoniu123",
+            "email": "190423457@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "exwechat\\": ""
+        }
+    }
+}
